@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "ReactPHP\\watcher\\": "src"
+            "ReactPHP\\Watcher\\": "src"
         }
     },
 	"config": {
